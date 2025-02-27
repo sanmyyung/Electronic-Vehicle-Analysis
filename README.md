@@ -1,6 +1,6 @@
 ## Electric Vehicle Analysis Dashboard
 
-![Electric Vehicle Dashboard](INSERT_IMAGE_LINK_HERE)
+![Electric Vehicle Dashboard](https://github.com/sanmyyung/Electronic-Vehicle-Analysis/blob/main/Dashboad..JPG)
 
 ### Overview
 This **Electric Vehicle Data Analysis** dashboard provides a comprehensive view of electric vehicle trends across different metrics such as total vehicles, average electric range, vehicle models, manufacturers, and eligibility for Clean Alternative Fuel Vehicle (CAFV) programs.
