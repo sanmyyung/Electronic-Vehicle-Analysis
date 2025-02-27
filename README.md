@@ -99,7 +99,6 @@ This **Electric Vehicle Data Analysis** dashboard provides a comprehensive view 
 
 ---
 ### Repository Info
-- **Created By:** Adesanmi Ojo
 - **Technology Stack:** Tableau
 
 Feel free to interact with the dashboard [here](https://public.tableau.com/app/profile/adesanmi.ojo/viz/ElectricVehicleAnalysis_17406189532910/Dashboard1?publish=yes)
